@@ -1,5 +1,5 @@
 # Windows10.5.github.io
-This is a customized build of Microsoft Windows that I created. I’ve removed unnecessary bloatware, telemetry, advertisements, and unwanted AI features to make it lightweight and fast using many open-source projects like 
+This is a customized build of Microsoft Windows that I created in 2023. I’ve removed unnecessary bloatware, telemetry, advertisements, and unwanted AI features to make it lightweight and fast using many open-source projects like 
 1. Atlas OS 
 2. Revi OS 
 3. Rectify 11 
