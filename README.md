@@ -7,3 +7,4 @@ This is a customized build of Microsoft Windows that I created in 2023. I’ve r
 
 It’s based on Windows 10 but redesigned with a modern interface inspired by Windows 11, giving it a sleek and updated look.
 This project was discontinued after some months and is no longer maintained, download links might not be working except archive.org one.
+This page is deployed at https://sky0e.github.io/Windows10.5.github.io/.
